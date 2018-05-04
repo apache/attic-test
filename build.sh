@@ -9,3 +9,4 @@ date >${OUT}/date.txt
 # Add some temporary debug
 id
 git config --list | fgrep user
+
