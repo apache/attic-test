@@ -10,6 +10,6 @@ ls -lR $OUT
 date >${OUT}/date.txt
 
 # to test file addition and removal
-cp -R src/ ${OUT}
+cp -R src/ ${OUT}/src
 
 ls -lR $OUT
